@@ -1,6 +1,3 @@
-Got it, Papa. Here’s an updated version of your README that **includes the AniList GraphQL anime fetcher** alongside the Pokémon REST API fetcher — fully formatted, professional, and easy to read:
-
----
 
 # 🧩 API Fetcher Collection
 
